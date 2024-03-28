@@ -15,7 +15,7 @@ https://github.com/mortal251/archivos_m3u8/raw/main/america_hls.m3u8
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8  
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/312yMcrIGiQtdig5oClpwN/76083b34ced746c828b959983b69e979/04_TVPublica.png?fm=webp&q=80" group-title="Nacionales" , TV Publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
+https://ythlsgo.onrender.com/channel/UCs231K71Bnu5295_x0MB5Pg.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6P3cAVk7GNmmuj0S16nCnb/a88ae2224ef75d7d31597ec2cffdc7c6/12_canal-9.png?fm=webp&q=80" group-title="Nacionales" , El Nueve
 http://190.11.130.46/mnp/elnueve/output.mpd
